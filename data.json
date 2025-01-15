@@ -1,145 +1,294 @@
 {
-   "playlist_name": "Rolling Stone 50 Greatest Songs",
-   "tracks": [
-        {
-          "name": "Respect",
-          "artist": "Aretha Franklin",
-          "album": "I Never Loved a Man the Way I Love You",
-          "year": 1967,
-          "album_art_link": "https://i.scdn.co/image/ab67616d0000b273d1e2b1e5e1e2b1e5e1e2b1e5"
-        },
-        {
-          "name": "Like a Rolling Stone",
-          "artist": "Bob Dylan",
-          "album": "Highway 61 Revisited",
-          "year": 1965,
-          "album_art_link": "https://i.scdn.co/image/ab67616d0000b273c1e2b1e5c1e2b1e5c1e2b1e5"
-        },
-        {
-          "name": "I Can't Get No Satisfaction",
-          "artist": "The Rolling Stones",
-          "album": "Out of Our Heads",
-          "year": 1965,
-          "album_art_link": "https://i.scdn.co/image/ab67616d0000b273a1e2b1e5a1e2b1e5a1e2b1e5"
-        },
-        {
-          "name": "Imagine",
-          "artist": "John Lennon",
-          "album": "Imagine",
-          "year": 1971,
-          "album_art_link": "https://i.scdn.co/image/ab67616d0000b273b1e2b1e5b1e2b1e5b1e2b1e5"
-        },
-        {
-          "name": "What's Going On",
-          "artist": "Marvin Gaye",
-          "album": "What's Going On",
-          "year": 1971,
-          "album_art_link": "https://i.scdn.co/image/ab67616d0000b273e1e2b1e5e1e2b1e5e1e2b1e5"
-        },
-        {
-          "name": "Good Vibrations",
-          "artist": "The Beach Boys",
-          "album": "Smiley Smile",
-          "year": 1967,
-          "album_art_link": "https://i.scdn.co/image/ab67616d0000b273f1e2b1e5f1e2b1e5f1e2b1e5"
-        },
-        {
-          "name": "Johnny B. Goode",
-          "artist": "Chuck Berry",
-          "album": "Chuck Berry Is On Top",
-          "year": 1959,
-          "album_art_link": "https://i.scdn.co/image/ab67616d0000b273g1e2b1e5g1e2b1e5g1e2b1e5"
-        },
-        {
-          "name": "Hey Jude",
-          "artist": "The Beatles",
-          "album": "Hey Jude",
-          "year": 1968,
-          "album_art_link": "https://i.scdn.co/image/ab67616d0000b273h1e2b1e5h1e2b1e5h1e2b1e5"
-        },
-        {
-          "name": "Smells Like Teen Spirit",
-          "artist": "Nirvana",
-          "album": "Nevermind",
-          "year": 1991,
-          "album_art_link": "https://i.scdn.co/image/ab67616d0000b273i1e2b1e5i1e2b1e5i1e2b1e5"
-        },
-        {
-          "name": "What'd I Say",
-          "artist": "Ray Charles",
-          "album": "What'd I Say",
-          "year": 1959,
-          "album_art_link": "https://i.scdn.co/image/ab67616d0000b273j1e2b1e5j1e2b1e5j1e2b1e5"
-        },
-        {
-          "name": "Stairway to Heaven",
-          "artist": "Led Zeppelin",
-          "album": "Led Zeppelin IV",
-          "year": 1971,
-          "album_art_link": "https://i.scdn.co/image/ab67616d0000b273k1e2b1e5k1e2b1e5k1e2b1e5"
-        },
-        {
-          "name": "Hotel California",
-          "artist": "Eagles",
-          "album": "Hotel California",
-          "year": 1976,
-          "album_art_link": "https://i.scdn.co/image/ab67616d0000b273l1e2b1e5l1e2b1e5l1e2b1e5"
-        },
-        {
-          "name": "Billie Jean",
-          "artist": "Michael Jackson",
-          "album": "Thriller",
-          "year": 1982,
-          "album_art_link": "https://i.scdn.co/image/ab67616d0000b273m1e2b1e5m1e2b1e5m1e2b1e5"
-        },
-        {
-          "name": "Purple Haze",
-          "artist": "Jimi Hendrix",
-          "album": "Are You Experienced",
-          "year": 1967,
-          "album_art_link": "https://i.scdn.co/image/ab67616d0000b273n1e2b1e5n1e2b1e5n1e2b1e5"
-        },
-        {
-          "name": "Bohemian Rhapsody",
-          "artist": "Queen",
-          "album": "A Night at the Opera",
-          "year": 1975,
-          "album_art_link": "https://i.scdn.co/image/ab67616d0000b273o1e2b1e5o1e2b1e5o1e2b1e5"
-        },
-        {
-          "name": "Let It Be",
-          "artist": "The Beatles",
-          "album": "Let It Be",
-          "year": 1970,
-          "album_art_link": "https://i.scdn.co/image/ab67616d0000b273p1e2b1e5p1e2b1e5p1e2b1e5"
-        },
-        {
-          "name": "Born to Run",
-          "artist": "Bruce Springsteen",
-          "album": "Born to Run",
-          "year": 1975,
-          "album_art_link": "https://i.scdn.co/image/ab67616d0000b273q1e2b1e5q1e2b1e5q1e2b1e5"
-        },
-        {
-          "name": "Layla",
-          "artist": "Derek & The Dominos",
-          "album": "Layla and Other Assorted Love Songs",
-          "year": 1970,
-          "album_art_link": "https://i.scdn.co/image/ab67616d0000b273r1e2b1e5r1e2b1e5r1e2b1e5"
-        },
-        {
-          "name": "Superstition",
-          "artist": "Stevie Wonder",
-          "album": "Talking Book",
-          "year": 1972,
-          "album_art_link": "https://i.scdn.co/image/ab67616d0000b273s1e2b1e5s1e2b1e5s1e2b1e5"
-        },
-        {
-          "name": "Wish You Were Here",
-          "artist": "Pink Floyd",
-          "album": "Wish You Were Here",
-          "year": 1975,
-          "album_art_link": "https://i.scdn.co/image/ab67616d0000b273t1e2b1e5t1e2b1e5t1e2b1e5"
-        }
+    "playlist_name": "Rolling Stone Top 500 Songs",
+    "tracks": [
+      {
+        "track_name": "Respect",
+        "artist": "Aretha Franklin",
+        "album": "I Never Loved a Man the Way I Love You",
+        "album_img_url": "https://i.scdn.co/image/ab67616d000048516aa9314b7ddfbd8f036ba3ac"
+      },
+      {
+        "track_name": "Fight The Power",
+        "artist": "Public Enemy",
+        "album": "Fear Of A Black Planet",
+        "album_img_url": "https://i.scdn.co/image/ab67616d000048512e3d1de8b2f61a477ae1ed6c"
+      },
+      {
+        "track_name": "A Change Is Gonna Come",
+        "artist": "Sam Cooke",
+        "album": "Ain't That Good News (Remastered)",
+        "album_img_url": "https://i.scdn.co/image/ab67616d000048511b75fccc2bf8757aca94f634"
+      },
+      {
+        "track_name": "Like a Rolling Stone",
+        "artist": "Bob Dylan",
+        "album": "Highway 61 Revisited",
+        "album_img_url": "https://i.scdn.co/image/ab67616d0000485141720ef0ae31e10d39e43ca2"
+      },
+      {
+        "track_name": "Smells Like Teen Spirit",
+        "artist": "Nirvana",
+        "album": "Nevermind (Deluxe Edition)",
+        "album_img_url": "https://i.scdn.co/image/ab67616d0000485128a90d00a2819504364880e4"
+      },
+      {
+        "track_name": "What's Going On",
+        "artist": "Marvin Gaye",
+        "album": "What's Going On - 40th Anniversary (Super Deluxe)",
+        "album_img_url": "https://i.scdn.co/image/ab67616d000048513d208b72327472664a0480e6"
+      },
+      {
+        "track_name": "Strawberry Fields Forever - Remastered",
+        "artist": "The Beatles",
+        "album": "Magical Mystery Tour (Remastered)",
+        "album_img_url": "https://i.scdn.co/image/ab67616d00004851a4472b215beac089fbf61f3b"
+      },
+      {
+        "track_name": "Get Ur Freak On",
+        "artist": "Missy Elliott",
+        "album": "Miss E... So Addictive",
+        "album_img_url": "https://i.scdn.co/image/ab67616d000048512e3969990abe1229c0879a7b"
+      },
+      {
+        "track_name": "Dreams - 2004 Remaster",
+        "artist": "Fleetwood Mac",
+        "album": "Rumours (Super Deluxe)",
+        "album_img_url": "https://i.scdn.co/image/ab67616d00004851e52a59a28efa4773dd2bfe1b"
+      },
+      {
+        "track_name": "Hey Ya!",
+        "artist": "Outkast",
+        "album": "Speakerboxxx/The Love Below",
+        "album_img_url": "https://i.scdn.co/image/ab67616d000048516e88eb6508fd94cd1b745ce2"
+      },
+      {
+        "track_name": "God Only Knows - Mono",
+        "artist": "The Beach Boys",
+        "album": "Pet Sounds (Original Mono & Stereo Mix)",
+        "album_img_url": "https://i.scdn.co/image/ab67616d00004851bde8dfd1922129f3d9e3732f"
+      },
+      {
+        "track_name": "Superstition - Single Version",
+        "artist": "Stevie Wonder",
+        "album": "The Definitive Collection",
+        "album_img_url": "https://i.scdn.co/image/ab67616d000048519e447b59bd3e2cbefaa31d91"
+      },
+      {
+        "track_name": "Gimme Shelter",
+        "artist": "The Rolling Stones",
+        "album": "Let It Bleed",
+        "album_img_url": "https://i.scdn.co/image/ab67616d0000485173d92707b0e7da0c493f5b86"
+      },
+      {
+        "track_name": "Waterloo Sunset",
+        "artist": "The Kinks",
+        "album": "Picture Book",
+        "album_img_url": "https://i.scdn.co/image/ab67616d0000485141be82ac736e49b6e485ff79"
+      },
+      {
+        "track_name": "I Want To Hold Your Hand - Remastered",
+        "artist": "The Beatles",
+        "album": "Past Masters (Vols. 1 & 2 / Remastered)",
+        "album_img_url": "https://i.scdn.co/image/ab67616d000048516102e3d1d4c8bca8a84a3ace"
+      },
+      {
+        "track_name": "Crazy In Love (feat. Jay-Z)",
+        "artist": "Beyoncé",
+        "album": "Dangerously In Love",
+        "album_img_url": "https://i.scdn.co/image/ab67616d0000485145680a4a57c97894490a01c1"
+      },
+      {
+        "track_name": "Bohemian Rhapsody - Remastered 2011",
+        "artist": "Queen",
+        "album": "A Night At The Opera (2011 Remaster)",
+        "album_img_url": "https://i.scdn.co/image/ab67616d00004851e319baafd16e84f0408af2a0"
+      },
+      {
+        "track_name": "Purple Rain",
+        "artist": "Prince",
+        "album": "Purple Rain",
+        "album_img_url": "https://i.scdn.co/image/ab67616d00004851d52bfb90ee8dfeda8378b99b"
+      },
+      {
+        "track_name": "Imagine - Remastered 2010",
+        "artist": "John Lennon",
+        "album": "Imagine",
+        "album_img_url": "https://i.scdn.co/image/ab67616d0000485199581550ef9746ca582bb3cc"
+      },
+      {
+        "track_name": "Dancing On My Own",
+        "artist": "Robyn",
+        "album": "Body Talk Pt. 1",
+        "album_img_url": "https://i.scdn.co/image/ab67616d0000485114e2eafece9d75406a591978"
+      },
+      {
+        "track_name": "Strange Fruit",
+        "artist": "Billie Holiday",
+        "album": "Billie Holiday",
+        "album_img_url": "https://i.scdn.co/image/ab67616d00004851f8743d2c7812763f7f66e83b"
+      },
+      {
+        "track_name": "Be My Baby",
+        "artist": "The Ronettes",
+        "album": "Be My Baby: The Very Best of The Ronettes",
+        "album_img_url": "https://i.scdn.co/image/ab67616d000048514694c5b97d3a88efb5fc71b5"
+      },
+      {
+        "track_name": "Heroes - 2017 Remaster",
+        "artist": "David Bowie",
+        "album": "\"Heroes\" (2017 Remaster)",
+        "album_img_url": "https://i.scdn.co/image/ab67616d00004851204f41d52743c6a9efd62985"
+      },
+      {
+        "track_name": "A Day In The Life - Remastered",
+        "artist": "The Beatles",
+        "album": "Sgt. Pepper's Lonely Hearts Club Band (Remastered)",
+        "album_img_url": "https://i.scdn.co/image/ab67616d00004851525ce7c1045374f0f9e62965"
+      },
+      {
+        "track_name": "Runaway",
+        "artist": "Kanye West",
+        "album": "My Beautiful Dark Twisted Fantasy",
+        "album_img_url": "https://i.scdn.co/image/ab67616d00004851d9194aa18fa4c9362b47464f"
+      },
+      {
+        "track_name": "A Case of You",
+        "artist": "Joni Mitchell Tribute by Strings Attached",
+        "album": "Strings Attached Plays Joni Mitchell",
+        "album_img_url": "https://i.scdn.co/image/ab67616d00004851d32a32bb7f13bfa42fe6aadb"
+      },
+      {
+        "track_name": "Born to Run",
+        "artist": "Bruce Springsteen",
+        "album": "Born To Run",
+        "album_img_url": "https://i.scdn.co/image/ab67616d00004851503143a281a3f30268dcd9f9"
+      },
+      {
+        "track_name": "Once in a Lifetime",
+        "artist": "Talking Heads",
+        "album": "Remain in Light",
+        "album_img_url": "https://i.scdn.co/image/ab67616d00004851e49a405217bda217816f7bf5"
+      },
+      {
+        "track_name": "Nuthin' But A \"G\" Thang",
+        "artist": "Dr. Dre, Snoop Dogg",
+        "album": "The Chronic",
+        "album_img_url": "https://i.scdn.co/image/ab67616d000048519710731c9d7baec635f1bab1"
+      },
+      {
+        "track_name": "Royals",
+        "artist": "Lorde",
+        "album": "Pure Heroine",
+        "album_img_url": "https://i.scdn.co/image/ab67616d00004851187331e276c898d39764cc98"
+      },
+      {
+        "track_name": "(I Can't Get No) Satisfaction - Mono Version / Remastered 2002",
+        "artist": "The Rolling Stones",
+        "album": "Out Of Our Heads (Remastered)",
+        "album_img_url": "https://i.scdn.co/image/ab67616d00004851d1ba3816b76a35c8de273f00"
+      },
+      {
+        "track_name": "Juicy - 2007 Remaster",
+        "artist": "The Notorious B.I.G.",
+        "album": "Greatest Hits",
+        "album_img_url": "https://i.scdn.co/image/ab67616d00004851639fea4197e676cfe9512e04"
+      },
+      {
+        "track_name": "Johnny B. Goode",
+        "artist": "Chuck Berry",
+        "album": "Berry Is On Top",
+        "album_img_url": "https://i.scdn.co/image/ab67616d0000485120eda594a1aae93a737845b9"
+      },
+      {
+        "track_name": "Papa's Got A Brand New Bag - Pt. 1",
+        "artist": "James Brown",
+        "album": "Star Time",
+        "album_img_url": "https://i.scdn.co/image/ab67616d000048517bf6d5338573b850d541b8d3"
+      },
+      {
+        "track_name": "Tutti Frutti",
+        "artist": "Little Richard",
+        "album": "The Georgia Peach",
+        "album_img_url": "https://i.scdn.co/image/ab67616d0000485154166bbbdad50262b9edcc42"
+      },
+      {
+        "track_name": "Seven Nation Army",
+        "artist": "The White Stripes",
+        "album": "Elephant",
+        "album_img_url": "https://i.scdn.co/image/ab67616d00004851588ca88c368d5f6eae5cb9b1"
+      },
+      {
+        "track_name": "When Doves Cry",
+        "artist": "Prince",
+        "album": "Purple Rain",
+        "album_img_url": "https://i.scdn.co/image/ab67616d00004851d52bfb90ee8dfeda8378b99b"
+      },
+      {
+        "track_name": "(Sittin' On) the Dock of the Bay",
+        "artist": "Otis Redding",
+        "album": "The Dock of the Bay (Mono)",
+        "album_img_url": "https://i.scdn.co/image/ab67616d000048510acddc8ccf8d14858fbeddf5"
+      },
+      {
+        "track_name": "B.O.B. - Bombs Over Baghdad",
+        "artist": "Outkast",
+        "album": "Stankonia",
+        "album_img_url": "https://i.scdn.co/image/ab67616d000048512350e31bc346a6c20e9de166"
+      },
+      {
+        "track_name": "All Along the Watchtower",
+        "artist": "Jimi Hendrix",
+        "album": "Electric Ladyland",
+        "album_img_url": "https://i.scdn.co/image/ab67616d00004851522088789d49e216d9818292"
+      },
+      {
+        "track_name": "Love Will Tear Us Apart - 2010 Remaster",
+        "artist": "Joy Division",
+        "album": "Substance",
+        "album_img_url": "https://i.scdn.co/image/ab67616d00004851a1d7fb161ce10fbd09b08183"
+      },
+      {
+        "track_name": "Redemption Song",
+        "artist": "Bob Marley & The Wailers",
+        "album": "Uprising",
+        "album_img_url": "https://i.scdn.co/image/ab67616d00004851a84b14a69f526321c00e5b86"
+      },
+      {
+        "track_name": "My Girl",
+        "artist": "The Temptations",
+        "album": "The Temptations Sing Smokey",
+        "album_img_url": "https://i.scdn.co/image/ab67616d000048518402fc9afb457b5d227ba32b"
+      },
+      {
+        "track_name": "Billie Jean",
+        "artist": "Michael Jackson",
+        "album": "Thriller 25 Super Deluxe Edition",
+        "album_img_url": "https://i.scdn.co/image/ab67616d000048514121faee8df82c526cbab2be"
+      },
+      {
+        "track_name": "Alright",
+        "artist": "Kendrick Lamar",
+        "album": "To Pimp A Butterfly",
+        "album_img_url": "https://i.scdn.co/image/ab67616d00004851cdb645498cd3d8a2db4d05e1"
+      },
+      {
+        "track_name": "Paper Planes",
+        "artist": "M.I.A.",
+        "album": "Kala",
+        "album_img_url": "https://i.scdn.co/image/ab67616d00004851310d9098fbbde47bf7785637"
+      },
+      {
+        "track_name": "Tiny Dancer",
+        "artist": "Elton John",
+        "album": "Madman Across The Water",
+        "album_img_url": "https://i.scdn.co/image/ab67616d00004851d03ab2da904d8251a87bbc31"
+      },
+      {
+        "track_name": "Idioteque",
+        "artist": "Radiohead",
+        "album": "Kid A",
+        "album_img_url": "https://i.scdn.co/image/ab67616d000048516c7112082b63beefffe40151"
+      }
     ]
-}
+  }
+  
